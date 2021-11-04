@@ -2,8 +2,6 @@
 
 const spinner = document.getElementById('spinner');
 
-// random cat gifs
-
 let btn = document.getElementById('btn');
 const img = document.querySelector('img');
 
